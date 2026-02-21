@@ -95,13 +95,14 @@ EDA helped guide cluster selection and interpretation.
 ---
 
 ## Project Structure
-
+```
 customer-segmentation/
 │
 ├── customer_segmentation.ipynb
 ├── requirements.txt
 └── README.md
 
+```
 
 ---
 
